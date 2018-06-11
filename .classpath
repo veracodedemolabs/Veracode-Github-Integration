@@ -6,12 +6,12 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/aberelowitz/Github_Integration_Libraries/Libraries/github-api-1.93.jar">
+	<classpathentry kind="lib" path="C:/Users/sgustafson/IntegrationLib/vosp-api-wrappers-java-18.5.5.2-dist/VeracodeJavaAPI.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/aberelowitz/Github_Integration_Libraries/Libraries/VeracodeJavaAPI.jar">
+	<classpathentry kind="lib" path="C:/Users/sgustafson/IntegrationLib/github-api-1.93.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
